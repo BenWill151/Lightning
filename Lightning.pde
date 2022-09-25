@@ -3,10 +3,10 @@ void setup()
   size(300,300);
   strokeWeight(1);
   background(#F7F7F7);
-  PImage img;
-  img = loadImage("stonks.png");
-  img.resize(150,150);
-  image(img, 50, 50);
+  //PImage img;
+  //img = loadImage("stonks.png");
+  //img.resize(150,150);
+  //image(img, 50, 50);
 
 }
 
